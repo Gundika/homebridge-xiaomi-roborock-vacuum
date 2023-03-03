@@ -55,7 +55,7 @@
     "rxjs": "^7.5.6",
     "semver": "7.3.8",
     "tinkerhub-discovery": "0.3.1",
-    "yargs": "15.4.1"
+    "yargs": "17.7.1"
   },
   "devDependencies": {
     "@babel/core": "7.21.0",
