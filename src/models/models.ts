@@ -99,7 +99,13 @@ export const MODELS: Record<string, ModelDefinition[]> = {
       waterspeed: watermodes["gen1+custom"],
     },
   ],
-  // Viomi
+  // S8
+  "roborock.vacuum.a51": [
+    {
+      speed: speedmodes["gen4+custom"],
+      waterspeed: watermodes["gen1+custom"],
+    },
+  ],// Viomi
   viomi: [
     {
       speed: speedmodes.viomi,
